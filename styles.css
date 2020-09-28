@@ -2,50 +2,58 @@
     position: relative;
     height: 100%;
     width: 100%;
+    padding: 50px;
+    border: 40px purple;
     font-family: "PT Sans Narrow";
 }
 #one {
-    width: 22em;
-    margin-right: 10px;
+    width: 10em;
+    height: 18.4em;
+    margin-left: 25px;
+    padding: 15px;
     background: yellow;
-    font-size: 2em;
+    font-size: 125px;
     color: orange;
     font-family: "PT Sans Narrow";
 }
 #two {
-    margin-bottom: 20px;
-    padding-bottom: 20px;
+    margin-bottom: 30px;
+    margin-left: 2.7em;
+    margin-top: -4.2em;
+    padding-bottom: 90px;
     padding-top: 30px;
     width: 12.5em;
-    height: 50%;
-    margin: 1em 1.5em 1em 1.8em;
-    margin-top: -.8em;
+    height: 27.5em;
+    border: 30px;
+    border-color: purple;
     background: blue;
     font-family: "PT Sans Narrow";
     color: grey;
-    font-size: 1.5em;
+    font-size: 80px;
 }
 #three {
     width: 10em;
     height: 27.8em;
     margin: 1em 1.5em 1em 1.8em;
+    margin-left: 1.7em;
     margin-top: -.5em;
     margin-bottom: -.5em;
     background: black;
     font-family: Calibri;
     color: white;
-    font-size: 1em;
+    font-size: 80px;
     font-family: "PT Sans Narrow";
 }
 
 #four {
     width: 5em;
-    height: 10em;
+    height: 12em;
     margin: 1em 1.5em .1em 1.8em;
+    margin-top: 5em;
     background: grey;
     font-family: "PT Sans Narrow";
     color: turquoise;
-    font-size: 1em;
+    font-size: 80px;
 }
 
 /* #one {
