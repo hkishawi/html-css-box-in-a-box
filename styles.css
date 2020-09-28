@@ -1,39 +1,71 @@
-#one {
-    width: 30em;
-    height: 47.5em;
-    background: yellow;
-    font-family: 'calibri';
-    font-size: 3em;
-    color: orange;
+#container {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    font-family: "PT Sans Narrow";
 }
-
-#one #two {
-    width: 17.5em;
-    height: 30em;
+#one {
+    width: 22em;
+    margin-right: 10px;
+    background: yellow;
+    font-size: 2em;
+    color: orange;
+    font-family: "PT Sans Narrow";
+}
+#two {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    width: 12.5em;
+    height: 50%;
     margin: 1em 1.5em 1em 1.8em;
+    margin-top: -.8em;
     background: blue;
-    font-family: Calibri;
+    font-family: "PT Sans Narrow";
     color: grey;
     font-size: 1.5em;
-    
 }
-
-#two #three {
+#three {
     width: 10em;
     height: 27.8em;
     margin: 1em 1.5em 1em 1.8em;
+    margin-top: -.5em;
+    margin-bottom: -.5em;
     background: black;
     font-family: Calibri;
     color: white;
     font-size: 1em;
+    font-family: "PT Sans Narrow";
 }
 
-#three #four {
+#four {
     width: 5em;
-    height: 15em;
-    margin: 1em 1.5em 1em 1.8em;
+    height: 10em;
+    margin: 1em 1.5em .1em 1.8em;
     background: grey;
-    font-family: Calibri;
+    font-family: "PT Sans Narrow";
     color: turquoise;
     font-size: 1em;
 }
+
+/* #one {
+    font-size: 40px;
+    margin: 5%;
+    border: 10px;
+    padding: 10px;
+    height: 100%;
+    width: 80%;
+    background: yellow;
+    color: orange;
+}
+
+#two {
+    top: -40px;
+    margin-right: 10px;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    height: 300px;
+    font-size: 30px;
+    background: blue;
+    color: grey;
+} */
