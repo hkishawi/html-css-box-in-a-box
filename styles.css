@@ -1,0 +1,39 @@
+#one {
+    width: 30em;
+    height: 47.5em;
+    background: yellow;
+    font-family: 'calibri';
+    font-size: 3em;
+    color: orange;
+}
+
+#one #two {
+    width: 17.5em;
+    height: 30em;
+    margin: 1em 1.5em 1em 1.8em;
+    background: blue;
+    font-family: Calibri;
+    color: grey;
+    font-size: 1.5em;
+    
+}
+
+#two #three {
+    width: 10em;
+    height: 27.8em;
+    margin: 1em 1.5em 1em 1.8em;
+    background: black;
+    font-family: Calibri;
+    color: white;
+    font-size: 1em;
+}
+
+#three #four {
+    width: 5em;
+    height: 15em;
+    margin: 1em 1.5em 1em 1.8em;
+    background: grey;
+    font-family: Calibri;
+    color: turquoise;
+    font-size: 1em;
+}
