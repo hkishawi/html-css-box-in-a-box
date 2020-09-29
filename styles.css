@@ -1,8 +1,11 @@
+body {
+    background-color: antiquewhite;
+}
 #container {
-    position: absolute;
+    position: fixed;
     margin-top: 10px;
     height: 77.5%;
-    width: 50%;
+    width: 83em;
     padding: 50px;
     border: solid 20px purple;
     font-family: "PT Sans Narrow";
